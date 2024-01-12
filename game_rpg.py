@@ -7,7 +7,7 @@ import sys
 import time  #pause
 import pickle 
 
-#Nous avons essayer d'installer un système de sauvegarde du jeu mais nous n'avons pas pû
+
 def save_game(player, game_map):
     data = {
         'player': player,
