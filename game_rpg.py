@@ -388,7 +388,7 @@ class GameApp:
     
     def windows_about(self):
         windows_about = tk.Toplevel(self.windows)
-        text = tk.Label(windows_about, text="Auteur : Théo Channarond, Afouda Johannes, Yanis Zedira et Aymen Djerad")
+        text = tk.Label(windows_about, text="Auteur : Yanis et Aymen")
         text.pack()
 
 if __name__ == "__main__":
